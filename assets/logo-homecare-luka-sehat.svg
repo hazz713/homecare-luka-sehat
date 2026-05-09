@@ -1,0 +1,16 @@
+<svg width="720" height="720" viewBox="0 0 720 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="720" fill="white"/>
+  <g transform="translate(255 95)">
+    <rect x="0" y="68" width="96" height="188" rx="38" transform="rotate(-45 0 68)" fill="#199AC2"/>
+    <rect x="67" y="0" width="96" height="188" rx="38" transform="rotate(45 67 0)" fill="#A8D323"/>
+    <circle cx="100" cy="100" r="7" fill="white"/>
+    <circle cx="129" cy="129" r="7" fill="white"/>
+    <circle cx="71" cy="129" r="7" fill="white"/>
+    <circle cx="100" cy="158" r="7" fill="white"/>
+    <circle cx="129" cy="100" r="7" fill="white"/>
+  </g>
+  <text x="360" y="355" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="82" font-weight="300" letter-spacing="2" fill="#A8D323">HOMECARE</text>
+  <text x="360" y="446" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="82" font-weight="300" letter-spacing="2" fill="#A8D323">LUKA</text>
+  <text x="360" y="537" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="82" font-weight="700" letter-spacing="2" fill="#A8D323">SEHAT</text>
+  <text x="360" y="630" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="600" letter-spacing="7" fill="#199AC2">Perawatan Luka Aman dan Terpercaya</text>
+</svg>
